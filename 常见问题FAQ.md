@@ -22,7 +22,7 @@
 
 - Q：为什么我在创造&镜像服使用投影粘贴原理图时粘出来的容器没有容器？我确信我的投影原理图内该容器已被填充；
 - A: 你需要安装 [Litematica Server Paster](https://modrinth.com/mod/litematica-server-paster?version=1.20.4#download) 模组即可解决。
-- 
+
 ---
 
 - Q：为什么我在服内使用 /music 或他人使用 /music 点歌后没有听到声音？
