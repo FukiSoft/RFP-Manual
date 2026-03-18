@@ -1,3 +1,9 @@
+###
+> [!WARNING]
+> RFPBBS已于2026年03月18日重新上线，本仓库进入归档状态，不再更新。
+
+---
+
 # RFP-Manual
 ## 该仓库的作用？
 该仓库的建立目的在于
@@ -22,6 +28,6 @@
 ## 该仓库的适用范围与管理？
 作为BBS的临时替代品，该仓库由 Rain Falling Prosperity × 雨落繁华 社群运维组管理。
 
-该仓库的可用范围也仅限于 Rain Falling Prosperity × 雨落繁华 社群人员。
+该仓库的有效 Issues 与 Pull Requests 范围也仅接受 Rain Falling Prosperity × 雨落繁华 社群人员。
 
 其他人员的申请报告将被直接驳回或删除。
